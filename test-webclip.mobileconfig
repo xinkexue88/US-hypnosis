@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>测试图标</string>
+			<key>PayloadDescription</key>
+			<string>最小测试:无自定义图标</string>
+			<key>PayloadDisplayName</key>
+			<string>测试图标</string>
+			<key>PayloadIdentifier</key>
+			<string>com.us-hypnosis.testclip.5EF3BFFC-3ECC-40A4-9D7D-0593504D7F3D</string>
+			<key>PayloadType</key>
+			<string>com.apple.webclip.managed</string>
+			<key>PayloadUUID</key>
+			<string>16C69401-D38B-4F49-B9B6-27CBE7CE246F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://us-hypnosis.netlify.app/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>最小测试版:不带自定义图标,用于定位问题。</string>
+	<key>PayloadDisplayName</key>
+	<string>测试-催眠课程图标</string>
+	<key>PayloadIdentifier</key>
+	<string>com.us-hypnosis.profile.testclip</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>559E25DC-BE99-4545-B01C-B3CA5EFF7872</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
